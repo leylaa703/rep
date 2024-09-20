@@ -4,3 +4,6 @@ to understand someting :)
 print("Любезно просим Вас ввести 2(два) числа")
 dig1= int(input())
 dig2= int(input())
+
+sum = dig1 + dig2
+print("Получите вашу сумму:", sum)
